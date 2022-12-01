@@ -1,2 +1,2 @@
-# Rest
-Rest 3 semester
+## REST Service
+Dette var lavet på 3 semester Datamatiker.
